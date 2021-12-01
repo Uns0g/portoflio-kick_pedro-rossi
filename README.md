@@ -2,7 +2,7 @@
 
 Esse projeto foi o meu primeiro site em Wordpress, auxiliado pela professora [Thalita De Melo Soares](https://github.com/Weivak).
 
-Vou adicionar mais texto.
+Link para o xml no drive [aqui](https://drive.google.com/file/d/1GVDr18OCng6oWDMlhO-s8xDbjoD4jdCa/view?usp=sharing)
 
 ## Cabeçalho
 
