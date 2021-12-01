@@ -14,7 +14,7 @@ Vou adicionar mais texto.
 
 ## Seção De Cursos
 
-![Seção de cursos da página](/img/couses.png)
+![Seção de cursos da página](/img/courses.png)
 
 ## Seção De Habilidades E Rodapé
 
