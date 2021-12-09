@@ -2,7 +2,7 @@
 
 Esse projeto foi o meu primeiro site em Wordpress, auxiliado pela professora [Thalita De Melo Soares](https://github.com/Weivak).
 
-Link para o xml no drive [aqui](https://drive.google.com/file/d/1GVDr18OCng6oWDMlhO-s8xDbjoD4jdCa/view?usp=sharing)
+Link para o xml no drive [aqui](https://drive.google.com/file/d/1QacGwW1QG3CsIxmbinc6VQKLUFntPkVc/view?usp=sharing)
 
 ## Cabeçalho
 
@@ -16,6 +16,9 @@ Link para o xml no drive [aqui](https://drive.google.com/file/d/1GVDr18OCng6oWDM
 
 ![Seção de cursos da página](/img/courses.png)
 
-## Seção De Habilidades E Rodapé
+## Seção De Habilidades
 
-![Footer e seção de skills da página](/img/footer.png)
+![Seção de skills da página](/img/footer.png)
+
+## Seção De Contato
+![Footer/Contato com o desenvolvedor](/img/contacts.png)
