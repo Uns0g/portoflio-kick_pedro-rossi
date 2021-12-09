@@ -12,13 +12,9 @@ Link para o xml no drive [aqui](https://drive.google.com/file/d/1QacGwW1QG3CsIxm
 
 ![Seção com os meus projetos](/img/projects.png)
 
-## Seção De Cursos
+## Seção De Cursos E Habilidades
 
 ![Seção de cursos da página](/img/courses.png)
-
-## Seção De Habilidades
-
-![Seção de skills da página](/img/footer.png)
 
 ## Seção De Contato
 ![Footer/Contato com o desenvolvedor](/img/contacts.png)
