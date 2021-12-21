@@ -4,8 +4,8 @@ Esse projeto foi o meu primeiro site em Wordpress, auxiliado pela professora [Th
 
 ## Links
 
--  Link para o site [aqui](soukick.pedrorossi.ml).
-- Link para o pdf com o portfolio [aqui](/blob/root/portfolio_pedro-rossi.pdf).
+-  Link para o site [aqui](https://soukick.pedrorossi.ml).
+- Link para o pdf com o portfolio [aqui](portfolio_pedro-rossi.pdf).
 - Link para o drive [aqui]().
 
 
