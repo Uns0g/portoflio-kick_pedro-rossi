@@ -6,7 +6,7 @@ Esse projeto foi o meu primeiro site em Wordpress, auxiliado pela professora [Th
 
 -  Link para o site [aqui](https://pedro-rossi.soukick.ml).
 - Link para o pdf com o portfolio [aqui](portfolio_pedro-rossi.pdf).
-- Link para o drive [aqui]().
+- Link para o drive [aqui](https://drive.google.com/file/d/1IIv79qbJt6sSoVqjCpWgNTVSd2ueEq25/view?usp=sharing).
 
 
 ## Cabeçalho
